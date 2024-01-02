@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.129.220
+IP-адрес 158.160.103.82
 
 Frontend https://im-aldm.nomoredomainsrocks.ru/
 
