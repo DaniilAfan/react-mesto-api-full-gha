@@ -110,21 +110,6 @@ const App = () => {
 		setOpenMenu(false)
 	}
 
-	//const onExit = () => {
-	//	authApi
-	//		.signOut()
-	//		.then((res) => {
-	//			localStorage.removeItem('jwt');
-	//			setLoggedIn(false);
-	//			navigate('/sign-in');
-	//			setUserData('');
-	//			setOpenMenu(false)
-	//		})
-	//		.catch((err) => {
-	//			console.error(`onLogin - ошибка: ${err} `)
-	//		})
-	//}
-
 	const handleCardClick = (card) => {
 		setSelectedCard(card);
 		setIsImagePopupOpen(true)
